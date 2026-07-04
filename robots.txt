@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kr-pbn-bp-047.node-link.shop/sitemap.xml
+Sitemap: https://yeouido-search-tip.node-link.shop/sitemap.xml
